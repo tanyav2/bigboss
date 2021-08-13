@@ -1,5 +1,5 @@
 package bigboss
 
-func amIBigBoss() bool {
+func AmIBigBoss() bool {
 	return false
 }
