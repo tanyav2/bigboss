@@ -1,4 +1,4 @@
-module bigboss
+module github.com/tanyav2/bigboss
 
 go 1.16
 
